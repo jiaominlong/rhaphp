@@ -22,5 +22,5 @@ return [
         'view'       => ['index/index'],
     ],
 
-    // 其他更多的模块定义
+    // 其他更多的模块定义test
 ];
